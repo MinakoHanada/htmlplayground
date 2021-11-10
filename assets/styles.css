@@ -1,0 +1,11 @@
+body {
+    background-color: blue;
+    background-image: url('./wooper.png');
+    background-size: 100% 70%;
+    background-repeat: no-repeat;
+    
+}
+
+.blue-font {
+    color: rgb(108, 108, 204);
+}
