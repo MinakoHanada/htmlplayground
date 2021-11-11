@@ -8,7 +8,7 @@ z-index: 4;
 .hidden {
 width: 100%;
 height: 100%;
-transition: ease-out 8000ms;
+transition: ease-out 6000ms;
 
 z-index: -1;
 opacity: 0;
@@ -34,6 +34,8 @@ to{
 
 .main-text{
 position: fixed;
+height: 100%;
+
 z-index: 1;
 top: 0px;
 }
@@ -48,3 +50,7 @@ body {
     color: rgb(255, 255, 255);
 }
 
+.hyperlink{
+color: white;
+
+}
